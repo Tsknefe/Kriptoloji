@@ -1,0 +1,16 @@
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\bin\Debug\net8.0-windows\Kriptoloji.exe
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\bin\Debug\net8.0-windows\Kriptoloji.deps.json
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\bin\Debug\net8.0-windows\Kriptoloji.runtimeconfig.json
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\bin\Debug\net8.0-windows\Kriptoloji.dll
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\bin\Debug\net8.0-windows\Kriptoloji.pdb
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.Form1.resources
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.AssemblyInfoInputs.cache
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.AssemblyInfo.cs
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.dll
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\refint\Kriptoloji.dll
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.pdb
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\Kriptoloji.genruntimeconfig.cache
+C:\Users\TR\source\repos\Kriptoloji\Kriptoloji\obj\Debug\net8.0-windows\ref\Kriptoloji.dll
